@@ -8,3 +8,4 @@ spring:
           uri: https://github.com/cookcodeblog/store-config-repo.git
           clone-on-start: true
           default-label: main
+          force-pull: true
